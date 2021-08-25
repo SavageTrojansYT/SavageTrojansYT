@@ -5,6 +5,6 @@
 - 📫 You can DM me on Discord - Complex_Sniper6#2892
 
 <!---
-SavageTrojansYT/SavageTrojansYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SavageTrojansYT/SavageTrojansYT is a ✨ special ✨ repository because its `ABOUTME.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
